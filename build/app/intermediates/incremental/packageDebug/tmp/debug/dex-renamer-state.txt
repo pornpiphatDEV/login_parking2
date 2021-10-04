@@ -1,0 +1,4 @@
+#Mon Oct 04 15:24:51 ICT 2021
+base.0=D\:\\toey\\projact\\projact_paing\\login_signup_screen-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
